@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-** Languages im confident with with **
+```text
+## Languages im confident with with
 
 JavaScript            ███████████████████████░░
 SQL                   ████████████████░░░░░░░░░
 C#                    ████████░░░░░░░░░░░░░░░░░
-
+```
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fabianpaci&show_icons=true&theme=radical" alt="Fabian Paci" />
