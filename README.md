@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, im Fabian Paci, im 14 years old and very passionate about programming. Im a self tought hoping to be a backend developer in the future.
+
 ```text
 **Languages im confident with with**
 
