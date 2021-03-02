@@ -12,14 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## A bit about me 😄
+Hello, im Fabian Paci, i'm 14 years old and I love Javascript, PostgreSQL and i'm very passionate about programming. I'm a self tought hoping to be a backend developer in the future.
 
-Hello, im Fabian Paci, im 14 years old and very passionate about programming. Im a self tought hoping to be a backend developer in the future.
+Contact Me:
+📫 Email: fabianpaci@gmail.com
+💬 Twitter: https://twitter.com/fabiantweetr
+
 
 ```text
-**Languages im confident with with**
+## Skills
 
 JavaScript            ███████████████████████░░
+Node                  ██████████████████████░░░
 SQL                   ████████████████░░░░░░░░░
+Unix Shell            █████████████░░░░░░░░░░░░
 C#                    ████████░░░░░░░░░░░░░░░░░
 ```
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
