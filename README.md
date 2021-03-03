@@ -19,9 +19,8 @@ Contact Me:
 📫 Email: fabianpaci@gmail.com
 💬 Twitter: https://twitter.com/fabiantweetr
 
-
-```text
 ## Skills
+```text
 
 JavaScript            ███████████████████████░░
 Node                  ██████████████████████░░░
