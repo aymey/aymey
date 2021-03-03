@@ -34,7 +34,7 @@ height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></code>
 <code> <img
 height="20"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"</code>> <img 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>> <img 
 height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 <code> <img
@@ -63,8 +63,6 @@ height="20"
  height="20" 
  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /></code>
 <code
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fabianpaci&show_icons=true&theme=dracula" alt="Fabian Paci" />
 
 <details>
   <summary>GitHub Stats</summary>
