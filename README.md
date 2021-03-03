@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 Hello, im Fabian Paci, i'm 14 years old, I love Javascript, PostgreSQL and i'm very passionate about programming. I'm self tought hoping to be a backend developer in the future.
 
-Contact Me:
-📫 Email: fabianpaci@gmail.com
-💬 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Fabiantweetr)
+## Contact Me:
+
+📫 [![Email Badge](https://img.shields.io/badge/Email-inbox-red)](fabianpaci@gmail.com) fabianpaci@gmail.com
+
+💬 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Fabiantweetr) Fabiantweetr
 
 ## Skills
 
