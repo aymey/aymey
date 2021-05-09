@@ -1,11 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-
-%%## A bit about me 😄
-
-%%Hello, im Fabian Paci, i'm 14 years old, I love Javascript, PostgreSQL and i'm very passionate about programming. I'm self tought hoping to be a backend developer in the future.
-
 ## Contact Me:
 
 📫 [![Email Badge](https://img.shields.io/badge/Email-inbox-red)](fabianpaci@gmail.com) fabianpaci@gmail.com
