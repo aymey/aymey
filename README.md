@@ -2,9 +2,9 @@
 
 
 
-## A bit about me 😄
+%%## A bit about me 😄
 
-Hello, im Fabian Paci, i'm 14 years old, I love Javascript, PostgreSQL and i'm very passionate about programming. I'm self tought hoping to be a backend developer in the future.
+%%Hello, im Fabian Paci, i'm 14 years old, I love Javascript, PostgreSQL and i'm very passionate about programming. I'm self tought hoping to be a backend developer in the future.
 
 ## Contact Me:
 
