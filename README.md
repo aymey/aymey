@@ -5,7 +5,7 @@
 
 📫 [![Email Badge](https://img.shields.io/badge/Email-inbox-red)](fabianpaci@gmail.com) fabianpaci@gmail.com
 
-💬 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Fabiantweetr) Fabiantweetr
+💬 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/fabianpacixyz) fabianpacixyz
 
 ## Skills
 
