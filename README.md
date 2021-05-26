@@ -5,8 +5,6 @@
 
 📫 [![Email Badge](https://img.shields.io/badge/Email-inbox-red)](fabianpaci@gmail.com) fabianpaci@gmail.com
 
-💬 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/fabianpacixyz) fabianpacixyz
-
 ## Skills
 
 <code> <img
@@ -25,31 +23,31 @@ height="20"
 height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 <code> <img
-height="20" 
+height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" /></code>
-<code> <img 
-height="20" 
+<code> <img
+height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></code>
-<code> <img 
-height="20" 
+<code> <img
+height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></code>
-<code> <img 
-height="20" 
+<code> <img
+height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
-<code> <img 
-height="20" 
+<code> <img
+height="20"
  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /></code>
-<code> <img 
-height="20" 
+<code> <img
+height="20"
  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
 <code> <img
- height="20" 
+ height="20"
  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></code>
-<code> <img 
- height="20" 
+<code> <img
+ height="20"
  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
-<img 
- height="20" 
+<img
+ height="20"
  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /></code>
 
 <details>
