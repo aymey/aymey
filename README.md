@@ -1,5 +1,5 @@
 ```ruby
- eval($s=w(#{  $                                                     
+ eval($s=%w(#{  $                                                     
 s})*""));puts("           ["1fwn                                     
 v1q4    xr                vp4w0"                                     
  ,"1    fw                nv  1q       4x                            
