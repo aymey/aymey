@@ -15,7 +15,6 @@ v1q4    xr                   vp4w0"
 ## Contact Me:
 
 📫 [![Email Badge](https://img.shields.io/badge/Email-inbox-red)](fabianpaci@gmail.com) fabianpaci@gmail.com
-📫 [![Email Badge](https://img.shields.io/badge/Email-inbox-red)](fabian@fabianpaci.xyz) fabian@fabianpaci.xyz (alot of email clients wont let you send emails to this address due to security reasons)
 
 ## Skills
 
