@@ -14,6 +14,7 @@ v1q4    xr                   vp4w0"
 
 ## Contact Me:
 
+📫 [![Email Badge](https://img.shields.io/badge/Email-inbox-red)](fabianpaci@protonmail.com) fabianpaci@protonmail.com
 📫 [![Email Badge](https://img.shields.io/badge/Email-inbox-red)](fabianpaci@gmail.com) fabianpaci@gmail.com
 
 ## Skills
