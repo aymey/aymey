@@ -74,9 +74,9 @@ height="20"
   <summary>GitHub Stats</summary>
 
 ![GitHub Stats]
-![GitHub languages]
+<!-- ![GitHub languages] -->
 
 </details>
 
-[github stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=fabianpaci
-[github languages]: https://github-readme-stats.vercel.app/api?username=Fabianpaci&show_icons=true&theme=dracula
+[github stats]: https://github-readme-stats.vercel.app/api?username=Fabianpaci&show_icons=true&theme=dracula
+[github languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=fabianpaci
