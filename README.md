@@ -22,8 +22,10 @@ STATS
 ```
 
 ![GitHub Stats]
+![github stats lang]
 
 
 <!-- bloop -->
 [github stats]: https://github-readme-stats.vercel.app/api?username=Fabianpaci&show_icons=true&theme=dracula
+[github stats lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=fabianpaci&layout=compact&&langs_count=8&theme=dracula
 
