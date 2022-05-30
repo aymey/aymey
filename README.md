@@ -20,10 +20,12 @@ CONTACT
 ```
 STATS
 ```
-
-![GitHub Stats]
-![github stats lang]
-
+<a href="https://github-readme-stats.vercel.app/api?username=Fabianpaci&show_icons=true&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fabianpaci&show_icons=true&theme=dracula"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianpaci&layout=compact&&langs_count=8&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianpaci&layout=compact&&langs_count=8&theme=dracula" />
+</a>
 
 <!-- bloop -->
 [github stats]: https://github-readme-stats.vercel.app/api?username=Fabianpaci&show_icons=true&theme=dracula
