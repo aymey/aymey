@@ -1,1 +1,3 @@
-![proprietary](https://user-images.githubusercontent.com/58243358/214484109-5740fb72-aeec-4cc3-8fec-c817e8876a03.png)
+<p align="center">
+    <img src="https://github.com/aymey/aymey/assets/58243358/f5214283-2a74-4413-9c1e-072415e9b20e" width="100" height="100">
+</p>
